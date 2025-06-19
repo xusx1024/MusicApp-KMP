@@ -1,4 +1,4 @@
-package com.example.musicapp_kmp.android
+package com.thunderbolt.music
 
 import android.app.Application
 import musicapp.player.PlayerServiceLocator

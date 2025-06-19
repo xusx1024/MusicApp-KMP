@@ -5,10 +5,10 @@ plugins {
 }
 
 android {
-    namespace = "com.example.musicapp_kmp.android"
+    namespace = "com.thunderbolt.music"
     compileSdk = 35
     defaultConfig {
-        applicationId = "com.example.musicapp_kmp.android"
+        applicationId = "com.thunderbolt.music"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

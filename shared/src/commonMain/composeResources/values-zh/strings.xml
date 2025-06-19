@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">落雷音乐</string>
+    <string name="featured_playlist">精选歌单</string>
+    <string name="explore_details">查看详情</string>
+    <string name="likes">喜欢</string>
+    <string name="tracks">曲目</string>
+    <string name="favorite">收藏</string>
+    <string name="new_releases">新发行</string>
+    <string name="go_back">返回</string>
+    <string name="songs">歌曲</string>
+    <string name="play_all">播放全部</string>
+    <string name="forward">前进</string>
+    <string name="back">后退</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="rewind_5_sec">后退5秒</string>
+    <string name="forward_5_sec">前进5秒</string>
+    <string name="sleep_timer">定时停止播放</string>
+    <string name="15_M">15分钟</string>
+    <string name="30_M">30分钟</string>
+    <string name="45_M">45分钟</string>
+    <string name="1_H">1小时</string>
+    <string name="2_H">2小时</string>
+    <string name="3_H">3小时</string>
+</resources>

@@ -1,4 +1,4 @@
-package com.example.musicapp_kmp.android
+package com.thunderbolt.music
 
 import android.Manifest
 import android.content.pm.PackageManager
