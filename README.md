@@ -16,7 +16,7 @@ You can find it live [here](https://seabdulbasit.github.io/MusicApp-KMP/)
 The app uses different media players on different platforms:
 
 For iOS, AVKit is used
-For Android, Media Player is used
+For Android, Media Player is used // ExoPlayer也许更好
 For Desktop, VLC media player is used
 For the Web, an HTML media player is used.
 
